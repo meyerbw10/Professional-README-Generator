@@ -1,41 +1,41 @@
 
-# README GEN
+# ReadMe Generator 
 
 
 # Table of Contents 
-* [Description](##Description)
-* [Installation](##Installation)
-* [Usage](##Usage)
-* [License](##License)
-* [Contributing](##Contributing)
-* [Questions](##Questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 
 ---
 
 
 ## Description 
-AS A developer
+The project's goal is to create a working read me generator that through terminal input displays and creates a read ame gernnerator
 
 
 
 ---
 
 ## Installation 
-SO THAT I can quickly create a professi	
+You can install it off of my github profile
 
 
 ---
 
 ## Usage 
-alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasjdflkasjdflkasjdflskdfjlksadflsakdjflaskjdflaskjflaksjdflk;asdflkasjdflkas;ldfkajslkfaslkdfjasl;kdfjalskdfjlaskdjfaskdfl;asdfjlkasdjflksadjflkasdjflkasdflksajdflkasfjaslkdfslkdfjslfkdfjalsdfklasdjflkasjflkasdfjlaksdfjlskfklsafjslkdflskdjflsakdfl;ksadlksjdlfksdflskajflksjdlksfdlfjsalfjdlkfjldfjasdflkloolorem 
+Inputing information in terminal to create readme LIKE Right NOW!
 
 
 ---
 
 ## License 
 
-![github license](https://img.shields.io/badge/License-MIT-green)
+![github license](https://img.shields.io/badge/License-Apache-green)
 
 ---
 
@@ -58,8 +58,8 @@ alskdjflkasjdflkjasldfkjasldfjaslkdfjal;sdfjlasdjflsajdflkasjdflksjdflkasdfklasj
 
 ## Questions 
 How to contact me for Questions:
-[](https://github.com/)
-asdfasfasdfasdfasdfasdfasdfasdf
+[meyerbw10](https://github.com/meyerbw10)
+brad.meyer13@gmail.com
 
 
 

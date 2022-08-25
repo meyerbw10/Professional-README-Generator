@@ -29,12 +29,12 @@ function generateMarkdown(data) {
 
 
 # Table of Contents 
-[Description](#Description)
-[Installation](#Installation)
-[Usage](#Usage)
-[License](##License)
-[Contributing](#Contributing)
-[Questions](#Questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 
 ---
