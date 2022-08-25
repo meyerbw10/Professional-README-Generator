@@ -7,21 +7,41 @@ const fs = require('fs');
 const questions = [
     {
       type: "input",
-      name: "name",
-      message: "What is your name?"
+      name: "title",
+      message: "What is the Title of your Project?"
     },
     {
-      type: "checkbox",
-      name: "contact",
-      message: "What languages do you know? Select languages using space bar",
-      choices: ["English", "French", "German", "Mandarin", "Catalonian", "Klingon", "Elvish", "Pig Latin"]
+      type: "input",
+      name: "description",
+      message: "Describe the Project you are working on in detail.",
+    },
+    {
+      type: "input",
+      name: "installation",
+      message: "How do you install your application?",
+    },
+    {
+      type: "input",
+      name: "usage",
+      message: "Describe how to use the application. How does a user use it?",
     },
     {
       type: "list",
       name: "license",
-      message: "What License would you like?",
-      choices: ["MIT", "Apache", "asdf", "fdsa", "none"]
-    }
+      message: "How do you install your application?",
+      choices: ["MIT", "Apache", "GPL", "BSD"]
+    },
+    {
+      type: "input",
+      name: "github",
+      message: "Enter GitHub Username.",
+    },
+    {
+      type: "input",
+      name: "email",
+      message: "Enter Email.",
+    },
+    
 ];
 // TODO: Create a function to write README file
 
