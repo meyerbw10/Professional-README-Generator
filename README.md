@@ -29,8 +29,8 @@ Link to deployed website: https://github.com/meyerbw10/Professional-README-Gener
 ---
 
 ### Usage
-
-
+DEMO VIDEO:
+https://youtu.be/5p0zA_gSGoI
 
 ---
 
